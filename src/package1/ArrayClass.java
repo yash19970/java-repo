@@ -12,8 +12,8 @@ public class ArrayClass {
 			System.out.println(ele);
 		}*/
 		DefC obj1  = new DefC();
-		obj1.id = 1;
-		System.out.print(obj1.id);
+		obj1.add();
+		
 	}
 
 }
